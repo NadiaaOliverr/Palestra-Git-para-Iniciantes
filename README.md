@@ -4,7 +4,7 @@
 <p><strong></strong> <em>Minicurso ministrado para a semana acadêmica do curso de Sistemas de Informação da Universidade Federal de Viçosa campus Rio Paranaíba - Minas Gerais</em></p>
 </blockquote>
 
-<img src="https://github.com/NadiaaOliverr/Minicurso-de-GIT---SACSIS-2019/blob/master/git.PNG" alt="Sacsis2019" />
+<img src="https://user-images.githubusercontent.com/41811634/62626669-488e4c80-b8fe-11e9-83a2-44620bf03f52.png" alt="Sacsis2019" />
 
 
 
